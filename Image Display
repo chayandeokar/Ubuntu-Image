@@ -9,3 +9,7 @@ imview <imge nme>
 
 ## sudo apt install feh
 ## feh icon-us.jpg
+
+
+## sudo apt install fim
+## fim image.png 
