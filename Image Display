@@ -1,0 +1,8 @@
+imview <imge nme>
+
+## sudo apt-get install shotwell
+## shotwell "picturefilename.fileformat"
+
+
+## sudo apt-get install eog
+## eog filename.png
