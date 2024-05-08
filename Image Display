@@ -6,3 +6,6 @@ imview <imge nme>
 
 ## sudo apt-get install eog
 ## eog filename.png
+
+## sudo apt install feh
+## feh icon-us.jpg
