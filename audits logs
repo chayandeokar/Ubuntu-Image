@@ -1,0 +1,1 @@
+kubectl logs questionserver-thai-598899d45b-g5lkq -n iat -c question-consumer > Q1CHY9FM8JXOUPOconsumer.txt
