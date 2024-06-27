@@ -8,7 +8,7 @@ spec:
     metadata:
       name: reprocess
     spec:
-      containers:
+      containers: #add your container image here
       - name: reprocess
         image: 
       imagePullSecrets:
