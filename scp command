@@ -1,3 +1,5 @@
 scp -i "key_name" WPDZ5JULPVEG2P_server.txt azureuser@20.197.49.197:/home/azureuser
 
 scp -i "key_name" -r /home/ root@54.133.171.207:/home/ubuntu/
+
+chmod +x "key_name"
