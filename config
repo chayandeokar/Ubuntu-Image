@@ -1,0 +1,4 @@
+Host "Name"
+    HostName "Ip"
+    IdentityFile "Key pair path"
+    User "ubuntu"
